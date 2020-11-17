@@ -1,3 +1,5 @@
-# Weather-AppT
+# Weather-App
 
-HANKS FOR VIEWERS
+
+
+THANKS FOR VIEWERS
